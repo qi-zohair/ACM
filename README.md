@@ -6,4 +6,4 @@ _This repository contains the source codes of the Classical Cauchy Method (CCM) 
 
 Zohair Al-Ameen. "Image Deconvolution Using Adapted Cauchy Method", Paper Submitted to The OPTIK, Elsevier.
 
-for inquireies, you can reach me at: qizohair@uomosul.edu.iq
+For inquireies, you can reach me at: qizohair@uomosul.edu.iq
