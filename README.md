@@ -4,7 +4,7 @@
 #
 _This repository contains the source codes of the Classical Cauchy Method (CCM) and the Adapted Cauchy Method (ACM) described in the following paper:_
 
-Zohair Al-Ameen. "Image Deconvolution Using Adapted Cauchy Method", 
+**Title:** "Image Deconvolution Using Adapted Cauchy Method", 
 **Paper Submitted to OPTIK Journal, Elsevier.**
 #
-For inquireies, you can reach me at: qizohair@uomosul.edu.iq
+
