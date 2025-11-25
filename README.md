@@ -8,3 +8,4 @@ _This repository contains the source codes of the Classical Cauchy Method (CCM) 
 **Paper Submitted to OPTIK Journal, Elsevier.**
 #
 
+**Run the code using the _Demo.m_ file**
